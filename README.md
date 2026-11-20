@@ -15,6 +15,7 @@
 e.g, Scatter, Line, Bar, Pie, Histogram, Box plot, Count plot, Violin plot, Heatmap, Swarm plot.
 
 Tools;
+
 .Pandas: Used for loading the dataset (CSV), cleaning data, dataframe manipulations, groupby operations, and generating summary statistics.
 
 .NumPy: Used for basic mathematical and array operations (working alongside Pandas).
