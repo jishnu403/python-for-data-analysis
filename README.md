@@ -15,8 +15,12 @@
 e.g, Scatter, Line, Bar, Pie, Histogram, Box plot, Count plot, Violin plot, Heatmap, Swarm plot.
 
 Tools;
-Pandas: Used for loading the dataset (CSV), cleaning data, dataframe manipulations, groupby operations, and generating summary statistics.
-NumPy: Used for basic mathematical and array operations (working alongside Pandas).
-Matplotlib: Used for creating basic charts and plots (e.g., Scatter, Line, Bar, Pie, Histogram, and Box plots).
-Seaborn: Used for advanced and attractive statistical data visualizations (e.g., Count plots, Bar plots, Violin plots, Pair plots, Heatmaps, and Swarm plots).
+.Pandas: Used for loading the dataset (CSV), cleaning data, dataframe manipulations, groupby operations, and generating summary statistics.
+
+.NumPy: Used for basic mathematical and array operations (working alongside Pandas).
+
+.Matplotlib: Used for creating basic charts and plots (e.g., Scatter, Line, Bar, Pie, Histogram, and Box plots).
+
+.Seaborn: Used for advanced and attractive statistical data visualizations (e.g., Count plots, Bar plots, Violin plots, Pair plots, Heatmaps, and Swarm plots).
+
 Jupyter Notebook
